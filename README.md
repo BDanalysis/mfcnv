@@ -1,5 +1,6 @@
 # mfcnv
 A method for detecting CNV  using neural networks
+
 #Table of Contents
 Folder information
 
@@ -8,6 +9,7 @@ Usage of mfcnv
 Output
 
 Platform
+
 1.Folder information
 There are four directories. 1.program This directory contains three files that have been coded, including code for training the model, for detecting simulation data and for detecting real data. 2.test This directory contains two subdirectories including RealData_mat and SimulationData_mat. 3.trains This directory contains three sets of data, you can train the model with any set of data from them and then detect other data using this model. 4.result This directory contains a table with all statistical results and two sub-directories, which are real data results and simulation data results.
 
