@@ -2,6 +2,7 @@
 A method for detecting CNV  using neural networks
 
 #Table of Contents
+
 Folder information
 
 Usage of mfcnv
