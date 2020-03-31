@@ -36,4 +36,4 @@ Change fopen (' ') in 5.2 to the user's file address,and run.
 The end of the program will generate result files in the root directory and show the precision, sensitivity and F1-score in the matlab window. These result files have a total of three volumns. (1): the position where the mutation occurred (2): variation type including gain, hemi_loss and homo_loss (3): this volumn is 1, 2 or 3 corresponding to the second volumn.
 
 # 4.Platform
-The program must be run in matlab 2016a on windows system.
+The program must run in matlab on windows system.
