@@ -1,0 +1,15 @@
+The program must be run in matlab 2016a.
+Step 1:
+Open the bpcnv_train file, changing the load (' ') in 1 to the user's file address,and run.
+
+Step 2:
+(1) test simulation data:
+Open the bpcnv_test_simulation file and change the load (' ') in 1 to the user's file address.
+Change the load (' ') in 3.1.1 to the user's file address.
+Change the mkdir (' ') and fopen (' ') in 4.5 to the user's file address,and run.
+(2) test real data:
+Open the bpcnv_test_real file and change the load (' ') in 1 to the user's file address.
+Change the load (' ') in 3 to the user's file address.
+Change fopen (' ') in 5.2 to the user's file address,and run.
+
+
